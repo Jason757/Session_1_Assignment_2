@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+	<head>
+	<title>
+	HTML page title
+	</title>
+	</head>
+	<body>
+	<h1>
+	This is body of the HTML page
+	</h1>
+	<p>
+	Any content within the body is displayed in the browser window
+	</p>
+	</body>
+</html>
